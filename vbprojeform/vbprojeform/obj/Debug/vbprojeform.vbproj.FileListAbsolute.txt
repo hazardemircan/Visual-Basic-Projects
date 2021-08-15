@@ -1,0 +1,11 @@
+C:\Users\Hazar Demircan\source\repos\vbprojeform\vbprojeform\bin\Debug\vbprojeform.exe
+C:\Users\Hazar Demircan\source\repos\vbprojeform\vbprojeform\bin\Debug\vbprojeform.pdb
+C:\Users\Hazar Demircan\source\repos\vbprojeform\vbprojeform\bin\Debug\vbprojeform.xml
+C:\Users\Hazar Demircan\source\repos\vbprojeform\vbprojeform\obj\Debug\vbprojeform.vbprojAssemblyReference.cache
+C:\Users\Hazar Demircan\source\repos\vbprojeform\vbprojeform\obj\Debug\vbprojeform.Form1.resources
+C:\Users\Hazar Demircan\source\repos\vbprojeform\vbprojeform\obj\Debug\vbprojeform.Resources.resources
+C:\Users\Hazar Demircan\source\repos\vbprojeform\vbprojeform\obj\Debug\vbprojeform.vbproj.GenerateResource.cache
+C:\Users\Hazar Demircan\source\repos\vbprojeform\vbprojeform\obj\Debug\vbprojeform.vbproj.CoreCompileInputs.cache
+C:\Users\Hazar Demircan\source\repos\vbprojeform\vbprojeform\obj\Debug\vbprojeform.exe
+C:\Users\Hazar Demircan\source\repos\vbprojeform\vbprojeform\obj\Debug\vbprojeform.xml
+C:\Users\Hazar Demircan\source\repos\vbprojeform\vbprojeform\obj\Debug\vbprojeform.pdb
