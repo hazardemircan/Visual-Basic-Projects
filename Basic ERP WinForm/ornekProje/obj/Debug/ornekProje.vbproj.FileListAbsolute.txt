@@ -1,0 +1,14 @@
+C:\Users\Hazar Demircan\source\repos\ornekProje\ornekProje\bin\Debug\ornekProje.exe.config
+C:\Users\Hazar Demircan\source\repos\ornekProje\ornekProje\bin\Debug\ornekProje.exe
+C:\Users\Hazar Demircan\source\repos\ornekProje\ornekProje\bin\Debug\ornekProje.pdb
+C:\Users\Hazar Demircan\source\repos\ornekProje\ornekProje\bin\Debug\ornekProje.xml
+C:\Users\Hazar Demircan\source\repos\ornekProje\ornekProje\bin\Debug\bym_dll.dll
+C:\Users\Hazar Demircan\source\repos\ornekProje\ornekProje\obj\Debug\ornekProje.vbprojAssemblyReference.cache
+C:\Users\Hazar Demircan\source\repos\ornekProje\ornekProje\obj\Debug\ornekProje.Form2.resources
+C:\Users\Hazar Demircan\source\repos\ornekProje\ornekProje\obj\Debug\ornekProje.Resources.resources
+C:\Users\Hazar Demircan\source\repos\ornekProje\ornekProje\obj\Debug\ornekProje.vbproj.GenerateResource.cache
+C:\Users\Hazar Demircan\source\repos\ornekProje\ornekProje\obj\Debug\ornekProje.vbproj.CoreCompileInputs.cache
+C:\Users\Hazar Demircan\source\repos\ornekProje\ornekProje\obj\Debug\ornekProje.vbproj.CopyComplete
+C:\Users\Hazar Demircan\source\repos\ornekProje\ornekProje\obj\Debug\ornekProje.exe
+C:\Users\Hazar Demircan\source\repos\ornekProje\ornekProje\obj\Debug\ornekProje.xml
+C:\Users\Hazar Demircan\source\repos\ornekProje\ornekProje\obj\Debug\ornekProje.pdb
